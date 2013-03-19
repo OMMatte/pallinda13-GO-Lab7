@@ -24,7 +24,7 @@ func main() {
 
 }
 
-func Sqrt(x float64, delta float64) float64 {
+func Sqrt(x, delta float64) float64 {
 	Z := x/2
 	calcDelta := delta + 1.0
 	oldValue := calcDelta
