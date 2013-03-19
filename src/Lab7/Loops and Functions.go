@@ -4,7 +4,7 @@
  * Date: 2013-03-19
  * Time: 12:42
  */
-package main
+package Lab7
 
 import (
 	"fmt"
@@ -12,7 +12,7 @@ import (
 )
 
 
-func main() {
+func RunLoops() {
 	x := 10.0
 	delta := 0.0001
 
