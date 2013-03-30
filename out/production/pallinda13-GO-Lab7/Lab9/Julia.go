@@ -21,7 +21,6 @@ import (
 	"fmt"
 	"time"
 	"sync"
-//	"image/jpeg"
 )
 
 type ComplexFunc func(complex128) complex128
@@ -106,6 +105,6 @@ func init() {
 	runtime.GOMAXPROCS(numcpu) // Try to use all available CPUs.
 }
 
-//Tid innan förbättring: 32 sekunder
-//Tid efter förbättring: 12 sekunder
+//Tid innan förbättring: 32-33 sekunder
+//Tid efter förbättring: 12-13 sekunder
 //Använder totalt 8 cpu,er

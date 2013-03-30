@@ -24,5 +24,6 @@ func main(){
 //	Lab8.RunOracle()
 
 //	Lab9.RunMatching()
-	Lab9.RunJulia()
+//	Lab9.RunJulia()
+	Lab9.RunServer()
 }
