@@ -6,7 +6,9 @@
  */
 package main
 
-import "Lab7"
+//import "Lab7"
+//import "Lab8"
+import "Lab9"
 
 func main(){
 //	Lab7.RunLoops()
@@ -14,5 +16,13 @@ func main(){
 //	Lab7.RunSlices()
 //	Lab7.RunFibonacci()
 //	Lab7.RunKlocka()
-	Lab7.RunSumma()
+//	Lab7.RunSumma()
+
+//	Lab8.RunBug1()
+//	Lab8.RunBug2()
+//	Lab8.RunManytoMany()
+//	Lab8.RunOracle()
+
+//	Lab9.RunMatching()
+	Lab9.RunJulia()
 }
